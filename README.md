@@ -1,2 +1,3 @@
 # firstrepo-demo
-My first Git repo.
+This is my first Git repo.
+Author: Priyanka Bisht
